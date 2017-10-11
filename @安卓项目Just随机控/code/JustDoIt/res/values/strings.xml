@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DLT-JustDoIt</string>
+    <string name="hello_world">Just Do It!</string>
+    <string name="action_settings">大乐透+13-关联拆位留七星</string>
+    <string name="label_do">Do</string>
+
+</resources>
